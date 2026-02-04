@@ -1,5 +1,6 @@
 # Flask
 ![Vista previa](Captura de pantalla 2026-02-04 144507.png)
+
 Instrucciones
 1. Instala las dependencias:
 pip install -r requirements.txt
