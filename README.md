@@ -1,6 +1,6 @@
 
 # Vista previa
-![Vista previa](Captura de pantalla 2026-02-04 144507.png)
+![Vista previa](foto.png)
 # Flask
 Instrucciones
 1. Instala las dependencias:
